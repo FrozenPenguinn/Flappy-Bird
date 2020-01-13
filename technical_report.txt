@@ -1,0 +1,28 @@
+Project Beginning Time: 2019.07.28
+
+-----Important features:
+
+# I guess people won't mind if I use spherical chickens in vacuum :P
+
+# Firstly, there should be a background image, can be a pano of some place or just simply
+  a piece of lined paper, or can be a marked by yards American football field.
+
+# A Bird object should be constructed, with instance variables colour, size(x, y),
+  _is_alive(?). This can be just a circle in version beta, but should be given an
+  image in version 1.1
+
+# The Geography object (a map with walls), sizes should be reasonably given to the upper
+  lower walls, e.g. wall width, as well as upper and lower wall length to 'y' boundaries
+
+# The def is_impact to tell whether the bird is colliding with the walls, if so game end
+
+# def to detect mouse-clicking, responding with the increase in the birds acceleration 
+  (flapping its wings if animation is possible), for better visual effect, the nouse/mouth
+  of the bird should be drawn, so that players can know the velocity vector of the bird.
+
+# A button for menu, when opened, should have the buttons 'continue game' & 'quit game'
+
+# On the main menu, there should be a button to start game, and the words 'Flappy Bird'
+  and the developer, who is myself.
+
+# A BGM should be added to the game
